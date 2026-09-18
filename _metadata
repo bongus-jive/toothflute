@@ -1,13 +1,15 @@
 {
-  "version" : "1",
-  "tags" : "Weapons|Cheats and God Items",
   "author" : "Garfunky",
-  "description" : "toot toot, tooth. adds them toothflute.\n\ni found the Toothflute files  on my computer and decided to reupload them \n the original author, \"Garfunky\", took  it down a few years ago . very sad",
-  "requires" : [],
-  "name" : "Toothflute",
-  "friendlyName" : "Toothflute but alived",
-  "steamContentId" : "2861798667",
-  "priority" : -1,
+  "description" : "toot toot, tooth. adds them toothflute.",
+  "friendlyName" : "Toothflute",
+  "includes" : [],
   "link" : "steam://url/CommunityFilePage/2861798667",
-  "includes" : []
+  "name" : "Toothflute",
+  "priority" : -1,
+  "requires" : [],
+  "steamContentId" : "2861798667",
+  "steamDescription" : "toot toot, tooth. adds them toothflute.\n\ni found the Toothflute files  on my computer and decided to reupload them \n the original author, \"Garfunky\", took  it down a few years ago . very sad\n\n[img]https://cdn.discordapp.com/emojis/848799993963347998.png[/img]",
+  "steamTitle" : "Toothflute but alived",
+  "tags" : "Weapons|Cheats and God Items",
+  "version" : "1"
 }
